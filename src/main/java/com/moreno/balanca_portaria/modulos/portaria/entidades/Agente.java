@@ -6,5 +6,6 @@ public class Agente {
     private Boolean age_fornecedor;
     private Boolean age_transportadora;
     private Boolean age_prestador_servico;
+    // FK_seguranca_exames
 
 }
